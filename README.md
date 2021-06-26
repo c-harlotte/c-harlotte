@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @c-harlotte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-c-harlotte/c-harlotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👀 I’m interested in cool projects, javascript and cats
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on image hosts based on typescript or javascript and cool projects based on ts and js
+- 📫 How to reach me charlotte#5555
