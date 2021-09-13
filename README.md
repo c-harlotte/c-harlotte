@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-harlotte&show_icons=true&locale=en" alt="c-harlotte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-harlotte&" alt="c-harlotte" /></p>
+
+<a href="https://discord.com/users/454888930408398869"><img src="https://discord.c99.nl/widget/theme-3/454888930408398869.png" alt="discord"/></a>
